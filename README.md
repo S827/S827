@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S827
-- 👀 I’m interested in computer programming and development.
+- 👀 I’m interested in computer programming and Sports.
 - 🌱 I’m currently learning Frontend library: React
 - 📫 How to reach me https://twitter.com/home
 
